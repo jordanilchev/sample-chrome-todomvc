@@ -76,4 +76,11 @@
 	$$('#clear-completed').addEventListener('click', function () {
 		todo.controller.removeCompletedItems();
 	});
+    
+    //alarms and google drive sync are not supported under ios
+    if (/(iPad|iPhone|iPod)/g.test( navigator.userAgent )) {
+        $$("#toggleAlarm").style.display = "none";
+        $$("#exportToDisk").style.display = "none";     
+    }
+    
 })();
