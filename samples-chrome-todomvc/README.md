@@ -82,4 +82,4 @@ With Telerik AppBuilder, you can deploy apps on device wirelessly or via cable c
 
 ## License
 
-[License](LICENSE.md)
+...Insert license, trademark, copyright information here, check with Vladi/legal what needs to be put here...
