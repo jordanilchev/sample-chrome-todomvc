@@ -14,7 +14,7 @@
     <AndroidHardwareAcceleration>false</AndroidHardwareAcceleration>
     <WP8SupportedResolutions>ID_RESOLUTION_WVGA;ID_RESOLUTION_WXGA;ID_RESOLUTION_HD720P</WP8SupportedResolutions>
     <BundleVersion>1.0</BundleVersion>
-    <DisplayName />
+    <DisplayName>TODO MVC</DisplayName>
     <Author />
     <Description>com.telerik.sampleschrometodomvc</Description>
     <iOSDeviceFamily>1;2</iOSDeviceFamily>
